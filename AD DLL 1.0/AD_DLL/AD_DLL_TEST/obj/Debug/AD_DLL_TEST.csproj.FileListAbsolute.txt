@@ -1,0 +1,9 @@
+C:\Users\Colin\Desktop\ad temp folder\AD_DLL\AD_DLL_TEST\bin\Debug\AD_DLL_TEST.exe.config
+C:\Users\Colin\Desktop\ad temp folder\AD_DLL\AD_DLL_TEST\bin\Debug\AD_DLL_TEST.exe
+C:\Users\Colin\Desktop\ad temp folder\AD_DLL\AD_DLL_TEST\bin\Debug\AD_DLL_TEST.pdb
+C:\Users\Colin\Desktop\ad temp folder\AD_DLL\AD_DLL_TEST\obj\Debug\AD_DLL_TEST.csprojResolveAssemblyReference.cache
+C:\Users\Colin\Desktop\ad temp folder\AD_DLL\AD_DLL_TEST\obj\Debug\AD_DLL_TEST.Form1.resources
+C:\Users\Colin\Desktop\ad temp folder\AD_DLL\AD_DLL_TEST\obj\Debug\AD_DLL_TEST.Properties.Resources.resources
+C:\Users\Colin\Desktop\ad temp folder\AD_DLL\AD_DLL_TEST\obj\Debug\AD_DLL_TEST.csproj.GenerateResource.Cache
+C:\Users\Colin\Desktop\ad temp folder\AD_DLL\AD_DLL_TEST\obj\Debug\AD_DLL_TEST.exe
+C:\Users\Colin\Desktop\ad temp folder\AD_DLL\AD_DLL_TEST\obj\Debug\AD_DLL_TEST.pdb
